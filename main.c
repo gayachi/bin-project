@@ -62,3 +62,6 @@ void die(int time)
 	Sleep(3000);
 	return;
 }
+void test(){
+printf("1\n");
+}
